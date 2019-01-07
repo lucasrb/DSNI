@@ -1,0 +1,1 @@
+{"data": {"previous_hash": "4cd87833b67c58267d1edffce9949f5cd70190a475d8d16ca1f2d091d36ff3eb", "identifications": ["12345678900", "32165498700", "11122233300","11133355500"], "institution_id": "17"}, "signature": "a5223294870e9951ffd1ec3e3e84f7e20625b44de382e9f5b0792f851e25c17b"}
