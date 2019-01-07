@@ -2,19 +2,20 @@
 ### Decentralized Student National Identification - A blockchain based application for student identification
  @Author: Lucas de Souza Ribeiro
 
-This code has been inicialized under the Udemy Course "Blockchain A-Z™: Learn How To Build Your First Blockchain"
-Credits to the Authors: Hadelin de Ponteves and Kirill Eremenko from SuperDataScience
-Made in Python using the following libraries
-ecdsa - http://github.com/warner/python-ecdsa
-flask - http://flask.pocoo.org/
-requests - http://python-requests.org
+This code has been inicialized under the Udemy Course "Blockchain A-Z™: Learn How To Build Your First Blockchain".
+
+Credits to the Authors: Hadelin de Ponteves and Kirill Eremenko from SuperDataScience.
+
+Made in Python using the following libraries.
+- ecdsa - http://github.com/warner/python-ecdsa
+- flask - http://flask.pocoo.org/
+- requests - http://python-requests.org
 
 ### Using the base implementation, the block has been changed to register Student Identification by Institutions while maintaining the security to history whoever submits the block
 Created by Lucas Ribeiro, as a work for bachelor degree completion.
 For its multidisciplinary comprehensiveness and size, the work is only a part of the desired release.
 
-Under the circustance of needing to spread public keys from every institution, another blockchain has been created
-to communicate with the first one, and secure that every key can also be maintained in a secure structure
+Under the circustance of needing to spread public keys from every institution, another blockchain has been created to communicate with the first one, and secure that every key can also be maintained in a secure structure.
 
 ### In a hypothetical release:
 The DSNI Blockchain could only communicate to his local Public Key Blockchain for get requests.
